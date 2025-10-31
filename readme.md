@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,FF0000&height=100&section=header&text=WELCOME+TO+MY+WEB!&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Black and Red Gradient Header" />
+</p>
+
 <div align="center">
-  <h1 style="color:#FF0000;">🕸️ Welcome to My Web!</h1>
+  <h1 style="color:#FF0000;">🕸️ Your Friendly Neighborhood Developer</h1>
   <p><i>"With great power comes great responsibility... and clean code."</i></p>
 </div>
 
@@ -8,14 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://images.hdqwalls.com/wallpapers/2020-black-spiderman-4k-artwork-ul.jpg" alt="Black Suit Spiderman Banner" width="800" />
-</p>
-
-<p align="center">
   <img src="https://c.tenor.com/t3d1bI7XfE8AAAAC/spiderman-shooting-web.gif" alt="Spiderman shooting web GIF" width="100"/>
 </p>
 
 ---
+
 ## 🕷️ Suit Specs (About Me)
 - Building **scalable cloud infrastructure** & automating **DevOps** workflows  
 - Skilled in **CI/CD, AWS, Kubernetes, Docker, Terraform, Monitoring & Observability** - Former **MERN Stack** developer passionate about performant web apps  
