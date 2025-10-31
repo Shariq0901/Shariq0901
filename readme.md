@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/L5hYwz1/spiderman-banner.png](https://images.hdqwalls.com/wallpapers/2020-black-spiderman-4k-artwork-ul.jpg" alt="Spider-Man Themed Background Header" width="100%" />
+  <img src="https://images.hdqwalls.com/wallpapers/2020-black-spiderman-4k-artwork-ul.jpg" alt="Spider-Man Themed Background Header" width="100%" />
 </p>
 
 <div align="center">
