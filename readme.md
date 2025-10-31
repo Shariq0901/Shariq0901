@@ -1,21 +1,18 @@
-<!-- Add Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" relr">
-  <img src="https://images.hdqwalls.com/wallpapers/2020-black-spiderman-4k-artwork-ul.jpg" alt="Spider-Man Themed Background Header" width="100%" />
-ebas Neue', sans-serif; font-size:3em;">
-    🕸️ Your Friendly Neighborhood Developer
-  </h1>
-  <p style="font-family:'Bebas Neue', sans-serif; font-size:1.5em;">
-    <i>"With great power comes great responsibility... and clean code."</i>
-  </p>
+<div align="center">
+  <h1 style="color:#FF0000;">🕸️ Your Friendly Neighborhood Developer</h1>
+  <p><i>"With great power comes great responsibility... and clean code."</i></p>
 </div>
+<p align="center">
+  <img src="https://images.hdqwalls.com/wallpapers/2020-black-spiderman-4k-artwork-ul.jpg" alt="Spider-Man Themed Background Header" width="100%" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Cloud+Infrastructure;MERN+Stack+Developer;Spider%E2%80%91Sense+Is+Tingling...&center=true&width=500&height=50&color=FF0000" alt="Animated Typing Banner" />
-
 </p>
+
 <p align="center">
   <img src="https://c.tenor.com/t3d1bI7XfE8AAAAC/spiderman-shooting-web.gif" alt="Spiderman shooting web GIF" width="100"/>
-</p>
 </p>
 
 ---
@@ -99,4 +96,3 @@ ebas Neue', sans-serif; font-size:3em;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF0000" alt="Portfolio"/>
   </a>
 </p>
-
