@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1 style="color:#FF0000;">🕸️ Welcome to My Web!</h1>
   <p><i>"With great power comes great responsibility... and clean code."</i></p>
@@ -17,7 +16,6 @@
 </p>
 
 ---
-
 ## 🕷️ Suit Specs (About Me)
 - Building **scalable cloud infrastructure** & automating **DevOps** workflows  
 - Skilled in **CI/CD, AWS, Kubernetes, Docker, Terraform, Monitoring & Observability** - Former **MERN Stack** developer passionate about performant web apps  
