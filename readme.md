@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,FF0000&height=100&section=header&text=WELCOME+TO+MY+WEB!&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Black and Red Gradient Header" />
+  <img src="https://i.ibb.co/L5hYwz1/spiderman-banner.png" alt="Spider-Man Themed Background Header" width="100%" />
 </p>
 
 <div align="center">
@@ -96,3 +96,4 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF0000" alt="Portfolio"/>
   </a>
 </p>
+
