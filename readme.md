@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000" alt="React"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FF0000" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=FF0000" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selinium&logoColor=FF0000" alt="selinium"/>
+  <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selinium&logoColor=FF0000" alt="selinium"/>
 </p>
 
 ### Tools & Platforms
