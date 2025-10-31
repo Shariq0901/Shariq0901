@@ -29,7 +29,7 @@
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Java"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF0000" alt="C"/>
 </p>
 
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000" alt="React"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FF0000" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=FF0000" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selinium&logoColor=FF0000" alt="selinium"/>
 </p>
 
 ### Tools & Platforms
