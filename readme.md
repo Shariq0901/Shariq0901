@@ -1,79 +1,96 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://images.hdqwalls.com/wallpapers/2020-black-spiderman-4k-artwork-ul.jpg" Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Cloud+Architect;MERN+Stack+Developer;Spider-Man+Fan&centerh=500&height=50&color=ff0000
-</p>
-
-<!-- Title -->
+<!-- Title (moved BEFORE banner, as requested) -->
 <div align="center">
-  <h1 style="font-family: 'Bebas Neue', sans-serif; color: #ff0000;">🕷 Welcome to My Web!</h1>
-  <h3 style="color: #f5f5f5; text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.7);">
-    "With great power comes great responsibility... and clean code."
-  </h3>
+  <h1>🕷️ Welcome to My Web!</h1>
+  <p><i>"With great power comes great responsibility... and clean code."</i></p>
 </div>
 
+<!-- Animated typing banner (red text) -->
+<p align="center">
+  https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Cloud+Infrastructure;MERN+Stack+Developer;Spider%E2%80%91Man+Theme&center=true&width=500&height=50&color=ff0000
+</p>
+
+<!-- Banner image -->
+<p align="center">
+  https://images.hdqwalls.com/wallpapers/2020-black-spiderman-4k-artwork-ul.jpg
+</p>
+
 ---
 
-## 🕸 About Me
-- 🔭 Building **Scalable Cloud Infrastructure & Automating DevOps Workflows**
-- 🕷 Skilled in **CI/CD, AWS, Kubernetes, Docker, Terraform, Monitoring & Observability**
-- 💻 Former **MERN Stack Developer** passionate about web apps
-- 📫 Reach me at **shaik.suraz50@gmail.com**
-- 🌐 Portfolio: *https://portfolio-shahriqs-projects.vercel.app/*
+## 🕸️ About Me
+- Building **scalable cloud infrastructure** & automating **DevOps** workflows  
+- Skilled in **CI/CD, AWS, Kubernetes, Docker, Terraform, Monitoring & Observability**  
+- Former **MERN Stack** developer passionate about performant web apps  
+- 🌐 Portfolio: <a href="https://portfolio-shahriqs-projects.vercel.app/" target="_blank">portfolio-shahri 
+- 📧 Email: mailto:shaik.suraz50@gmail.comshaik.suraz50@gmail.com</a>
 
 ---
 
-## 🕸 Skills
+## 🕷️ Skills
+
 ### Languages
-https://img.shields.io/badge/JavaScript-ff0000?style=flat-square&logo=javascript&logoColor=white
-![Pythonimg.shields.io/badge/Python-ff0000?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/C-ff0000?style=flat-square&logo=c&logoColor=white
+<p>
+  https://img.shields.io/badge/JavaScript-ff0000?style=flat&logo=javascript&logoColor=white
+  <img src="https://img.shields.io/badge/Python-ff0000?style=python&logoColor=white
+  https://img.shields.io/badge/C-ff0000?style=flat&logo=c&logoColor=white
+</p>
 
-### Frameworks
-![tps://img.shields.io/badge/React-ff0000?style=flat-square&logo=react&logoColor=white
-https://img.shields.io/badge/Express.js-ff0000?style=flat-square&logo=express&logoColor=white
-![Redux](https://img.shields.io/badge/Redux-ff0000?style=flat-square&logo=redux&logoColor=white)
+### Frameworks & Libraries
+<p>
+  https://img.shields.io/badge/React-ff0000?style=flat&logo=react&logoColor=white
+  https://img.shields.io/badge/Express.js-ff0000?style=flat&logo=express&logoColor=white
+  https://img.shields.io/badge/Redux-ff0000?style=flat&logo=redux&logoColor=white
+</p>
 
-https://img.shields.io/badge/AWS-ff0000?style=flat-square&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/Docker-ff0000?style=flat-square&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-ff0000?style=flat-square&logo=kubernetes&logoColor=white
+### Tools & Platforms
+<p>
+  https://img.shields.io/badge/AWS-ff0000?style=flat&logo=amazon-aws&logoColor=white
+  https://img.shields.io/badge/Docker-ff0000?style=flat&logo=docker&logoColor=white
+  https://img.shields.io/badge/Kubernetes-ff0000?style=flat&logo=kubernetes&logoColor=white
+  https://img.shields.io/badge/Terraform-ff0000?style=flat&logo=terraform&logoColor=white
+  <img src="https://img.shields.io/badge/Grafana-ff0000?style=flat&na&logoColor=white
+  https://img.shields.io/badge/Prometheus-ff0000?style=flat&logo=prometheus&logoColor=white
+</p>
 
 ---
 
-## 🕸 GitHub Stats
+## 🕸️ GitHub Stats (Dark + Red)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shariq0901&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&icon_colorp>
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Shariq0901&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000
+  <img src="https://github-readme-stats.vercel.app/api?username=Shariq0901&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="GitHub Stats">
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shariq0901&layout=compact&theme=dark&bg_color=000000&title_color=ff000or=ffffff
 </p>
 
 ---
 
 ## 🏆 Trophies
 <p align="center">
-  https://github-profile-trophy.vercel.app/?username=Shariq0901&theme=darkhub&title_color=ff0000
+  https://github-profile-trophy.vercel.app/?username=Shariq0901&theme=onestar&margin-w=10&margin-h=10&title=Commit,Followers,Issues,PullRequest,Repositories&no-bg=true&no-frame=true
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  https://komarev.com/ghpvc/?username=Shariq0901&color=ff0000
+  https://komarev.com/ghpvc/?username=Shariq0901&color=ff0000&style=flat
 </p>
 
 ---
 
-## 🕸 Connect With Me
+## 🕸️ Connect With Me
 <p align="center">
-  https://www.linkedin.com/in/shaik-suraz/
-    <img src="https://img.shieldsLinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white
+  <ttps://www.linkedin.com/in/shaik-suraz/
+    https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white
   </a>
   https://github.com/Shariq0901
-    <img src="https://img.shields.io/badge/G00?style=for-the-badge&logo=github&logoColor=white
+    https://img.shields.io/badge/GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white
   </a>
-  YOUR_PORTFOLIO_URL
+  <atps://portfolio-shahriqs-projects.vercel.app/
     https://img.shields.io/badge/Portfolio-ff0000?style=for-the-badge&logo=firefox&logoColor=white
   </a>
+</p>
+
+---
+
+<!-- Footer quote image (optional extra flair) -->
+<p align="center">
+  https://wallpaperaccess.com/full/1127741.jpg
 </p>
