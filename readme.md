@@ -29,7 +29,7 @@
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=FF0000" alt="Java"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF0000" alt="C"/>
 </p>
 
